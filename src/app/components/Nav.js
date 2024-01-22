@@ -10,25 +10,25 @@ export default function Nav() {
       </Link>
       <Link
         href="#about"
-        className="hover:font-medium hover:scale-125 transition ease-in-out hover:text-slate-300"
+        className="hover:font-medium hover:scale-125 transition ease-in-out hover:text-slate-300 pt-5"
       >
         ABOUT
       </Link>
       <Link
         href="#Projects"
-        className="hover:font-medium  hover:scale-125 transition ease-in-out hover:text-slate-300"
+        className="hover:font-medium  hover:scale-125 transition ease-in-out hover:text-slate-300 pt-5"
       >
         WORK
       </Link>
       <Link
         href="#skills"
-        className="hover:font-medium hover:scale-125 transition ease-in-out hover:text-slate-300"
+        className="hover:font-medium hover:scale-125 transition ease-in-out hover:text-slate-300 pt-5"
       >
         SKILLS
       </Link>
       <Link
         href="#contact"
-        className="hover:font-medium hover:scale-125 transition ease-in-out hover:text-slate-300"
+        className="hover:font-medium hover:scale-125 transition ease-in-out hover:text-slate-300 pt-5"
       >
         CONTACT
       </Link>

@@ -11,11 +11,11 @@ export default function Home() {
   return (
     <main>
       <section
-        id="home"
+        id="home"w
         className=" min-h-96 items-center min-w-max flex leading-relaxed ml-10 text-4xl font-light text-gray-300 flex-col justify-center"
       >
         <h2 className="mt-10 text-9xl font-thin fonts2 mb-4">
-          DIGITAL DESIGNER
+          UI & UX DESIGNER
         </h2>
         <ButtonCV />
       </section>
